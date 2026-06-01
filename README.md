@@ -1,2 +1,7 @@
-# demo-escribania-barzola
-Demo web para Escribania Barzola — diseñada por eterlab.
+# Escribania Barzola
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
